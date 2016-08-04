@@ -1,0 +1,25 @@
+_repo: The-Constitution-of-the-Empire-of-Japan-1889_613
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Japan
+    gutenberg_agent_id: '321'
+    url: http://www.gutenberg.org/2009/agents/321
+description: Japan. Kenpo (1889)
+gutenberg_bookshelf: Politics
+gutenberg_issued: '1996-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '613'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JQ'
+- !lcsh 'Japan -- Constitution'
+- !lcc 'KNX'
+- !lcsh 'Constitutional law -- Japan'
+- GITenberg
+title: The Constitution of the Empire of Japan, 1889
+url: http://www.gutenberg.org/ebooks/613

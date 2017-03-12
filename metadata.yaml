@@ -1,11 +1,16 @@
 _repo: The-Constitution-of-the-Empire-of-Japan-1889_613
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Japan
     gutenberg_agent_id: '321'
     url: http://www.gutenberg.org/2009/agents/321
 description: Japan. Kenpo (1889)
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/613#The-Constitution-of-the-Empire-of-Japan-1889
 gutenberg_bookshelf: Politics
 gutenberg_issued: '1996-08-01'
 gutenberg_type: Text
